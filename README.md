@@ -1,1 +1,1 @@
-# public-repo
+Public repository for Airbyte testing
